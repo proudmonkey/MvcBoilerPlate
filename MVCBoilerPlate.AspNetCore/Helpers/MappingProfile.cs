@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
-using MVCBoilerPlate.AspNetCore.Domains.Entity;
-using MVCBoilerPlate.AspNetCore.Models;
+using MvcBoilerPlate.AspNetCore.Domains.Entity;
+using MvcBoilerPlate.AspNetCore.Models;
 using System.Collections.Generic;
 
-namespace MVCBoilerPlate.AspNetCore.Helpers
+namespace MvcBoilerPlate.AspNetCore.Helpers
 {
     public class MappingProfile: Profile
     {

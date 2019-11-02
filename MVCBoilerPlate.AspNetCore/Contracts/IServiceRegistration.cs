@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace MVCBoilerPlate.AspNetCore.Contracts
+namespace MvcBoilerPlate.AspNetCore.Contracts
 {
     public interface IServiceRegistration
     {

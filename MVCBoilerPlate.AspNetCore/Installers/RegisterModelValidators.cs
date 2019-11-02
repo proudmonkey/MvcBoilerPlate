@@ -1,8 +1,8 @@
 ﻿using FluentValidation;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MVCBoilerPlate.AspNetCore.Contracts;
-using MVCBoilerPlate.AspNetCore.Models;
+using MvcBoilerPlate.AspNetCore.Contracts;
+using MvcBoilerPlate.AspNetCore.Models;
 
 namespace MVCBoilerPlate.AspNetCore.Installers
 {

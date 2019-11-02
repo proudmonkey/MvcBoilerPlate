@@ -1,11 +1,11 @@
 ﻿using Microsoft.Extensions.Configuration;
-using MVCBoilerPlate.AspNetCore.Contracts;
-using MVCBoilerPlate.AspNetCore.Domains.Entity;
-using MVCBoilerPlate.AspNetCore.Domains.Persistence;
+using MvcBoilerPlate.AspNetCore.Contracts;
+using MvcBoilerPlate.AspNetCore.Domains.Entity;
+using MvcBoilerPlate.AspNetCore.Domains.Persistence;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MVCBoilerPlate.AspNetCore.Domains.DataManager
+namespace MvcBoilerPlate.AspNetCore.Domains.DataManager
 {
     public class PersonManager: DbFactoryBase, IPersonManager
     {

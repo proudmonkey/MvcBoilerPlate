@@ -6,11 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using MVCBoilerPlate.AspNetCore.Helpers;
-using MVCBoilerPlate.AspNetCore.Helpers.Extensions;
+using MvcBoilerPlate.AspNetCore.Helpers;
+using MvcBoilerPlate.AspNetCore.Helpers.Extensions;
 using System;
 
-namespace MVCBoilerPlate.AspNetCore
+namespace MvcBoilerPlate.AspNetCore
 {
     public class Startup
     {

@@ -5,7 +5,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace MVCBoilerPlate.AspNetCore.Workers
+namespace MvcBoilerPlate.AspNetCore.Workers
 {
     public class MessageQueueProcessorService: BackgroundService
     {

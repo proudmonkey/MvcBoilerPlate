@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MVCBoilerPlate.AspNetCore.Domains.Entity
+namespace MvcBoilerPlate.AspNetCore.Domains.Entity
 {
     public class EntityBase
     {

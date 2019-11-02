@@ -1,6 +1,6 @@
 using System;
 
-namespace MVCBoilerPlate.AspNetCore.Models
+namespace MvcBoilerPlate.AspNetCore.Models
 {
     public class ErrorViewModel
     {

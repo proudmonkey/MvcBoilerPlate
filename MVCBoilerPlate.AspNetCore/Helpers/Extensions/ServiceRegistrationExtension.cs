@@ -1,11 +1,11 @@
 ﻿
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MVCBoilerPlate.AspNetCore.Contracts;
+using MvcBoilerPlate.AspNetCore.Contracts;
 using System;
 using System.Linq;
 
-namespace MVCBoilerPlate.AspNetCore.Helpers.Extensions
+namespace MvcBoilerPlate.AspNetCore.Helpers.Extensions
 {
     public static class ServiceRegistrationExtension
     {

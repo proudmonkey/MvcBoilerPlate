@@ -1,9 +1,9 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MVCBoilerPlate.AspNetCore.Contracts;
-using MVCBoilerPlate.AspNetCore.Domains.DataManager;
+using MvcBoilerPlate.AspNetCore.Contracts;
+using MvcBoilerPlate.AspNetCore.Domains.DataManager;
 
-namespace MVCBoilerPlate.AspNetCore.Installers
+namespace MvcBoilerPlate.AspNetCore.Installers
 {
     public class RegisterContractMappings: IServiceRegistration
     {

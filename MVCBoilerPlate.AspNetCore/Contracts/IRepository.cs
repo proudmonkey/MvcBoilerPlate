@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MVCBoilerPlate.AspNetCore.Contracts
+namespace MvcBoilerPlate.AspNetCore.Contracts
 {
     public interface IRepository<T>
     {

@@ -5,7 +5,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
 
-namespace MVCBoilerPlate.AspNetCore.Domains.Persistence
+namespace MvcBoilerPlate.AspNetCore.Domains.Persistence
 {
     public class DbFactoryBase
     {

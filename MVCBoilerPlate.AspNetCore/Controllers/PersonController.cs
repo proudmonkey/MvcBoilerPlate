@@ -1,14 +1,14 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using MVCBoilerPlate.AspNetCore.Contracts;
-using MVCBoilerPlate.AspNetCore.Domains.Entity;
-using MVCBoilerPlate.AspNetCore.Models;
+using MvcBoilerPlate.AspNetCore.Contracts;
+using MvcBoilerPlate.AspNetCore.Domains.Entity;
+using MvcBoilerPlate.AspNetCore.Models;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MVCBoilerPlate.AspNetCore.Controllers
+namespace MvcBoilerPlate.AspNetCore.Controllers
 {
     public class PersonController : Controller
     {

@@ -1,6 +1,6 @@
-﻿using MVCBoilerPlate.AspNetCore.Domains.Entity;
+﻿using MvcBoilerPlate.AspNetCore.Domains.Entity;
 
-namespace MVCBoilerPlate.AspNetCore.Contracts
+namespace MvcBoilerPlate.AspNetCore.Contracts
 {
     public interface IPersonManager : IRepository<Person>
     {
