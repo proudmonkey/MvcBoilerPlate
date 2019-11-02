@@ -1,4 +1,4 @@
-# MVCBoilerPlate.AspNetCore
+# MvcBoilerPlate.AspNetCore
 
 A simple project template designed for small standalone projects or PoC's. The goal is to help you get up to speed when setting up the core structure of your ASP.NET Core MVC app and its dependencies. This enables you to focus on implementing business specific code requirements without you having to copy and paste the core structure of your project, and installing its dependencies all over again. 
 
