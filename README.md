@@ -45,3 +45,7 @@ If you follow step 2, then you can skip this step and run the application right 
 
 If you have a different `database` and `table` name then you need to change the `connectionString` in `appsettings.json` that is pointing to the newly created database. You can get the `connectionString` values in the `properties` window of the "TestDB" database in Visual Studio.
 
+# ASP.NET Core API Template
+If you need an API template to separate your APIs from your UI, then you can take a look at `ApiBoilerPlate` here: [https://github.com/proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate)
+
+
